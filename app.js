@@ -146,10 +146,10 @@ window.requestAnimFrame = function () {
       }
     }
   
-    let maxl = 300,
+    let maxl = 400,
       minl = 50,
       n = 30,
-      numt = 500,
+      numt = 700,
       tent = [],
       clicked = false,
       target = { x: 0, y: 0 },
